@@ -1,5 +1,0 @@
-from datetime import datetime, date, time
-d = date(0,0,0)
-t = time (0,0)
-date = datetime.combine(d,t)
-print (date)
